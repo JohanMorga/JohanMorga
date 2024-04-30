@@ -1,1 +1,1 @@
-IT Student
+Fullstack dev @Beecoming
